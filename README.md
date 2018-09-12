@@ -7,4 +7,5 @@ projects. This repo can be used to practice creating PRs.
 
 # Summary
 Summary. 
+fix1.
 fix2.
